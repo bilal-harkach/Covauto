@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj": {}
+    "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj": {
+    "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj",
+        "projectUniqueName": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj",
         "projectName": "Covauto.Applicatie",
-        "projectPath": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj",
+        "projectPath": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Applicatie\\Covauto.Applicatie.csproj",
         "packagesPath": "C:\\Users\\bjorn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Applicatie\\obj\\",
+        "outputPath": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Applicatie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

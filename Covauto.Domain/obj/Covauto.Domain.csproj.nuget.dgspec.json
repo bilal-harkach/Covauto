@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj": {}
+    "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj": {
+    "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj",
         "projectName": "Covauto.Domain",
-        "projectPath": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj",
+        "projectPath": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Domain\\Covauto.Domain.csproj",
         "packagesPath": "C:\\Users\\bjorn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjorn\\source\\repos\\Covauto\\Covauto.Domain\\obj\\",
+        "outputPath": "C:\\Users\\bjorn\\Source\\Repos\\Covauto\\Covauto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
