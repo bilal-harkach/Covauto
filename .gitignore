@@ -4,3 +4,19 @@
 
 /.vs
 /Covauto.API/obj
+/Covauto.Domain/obj/Debug/net8.0/Covauto.Domain.AssemblyInfo.cs
+/Covauto.Domain/obj/Debug/net8.0/Covauto.Domain.AssemblyInfoInputs.cache
+/Covauto.Domain/obj/Debug/net8.0/Covauto.Domain.assets.cache
+/Covauto.Domain/obj/Debug/net8.0/Covauto.Domain.csproj.AssemblyReference.cache
+/Covauto.Domain/obj/Debug/net8.0/Covauto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Covauto.Domain/obj/project.nuget.cache
+/Covauto.Domain/obj/project.assets.json
+/Covauto.Domain/obj/Covauto.Domain.csproj.nuget.dgspec.json
+/Covauto.Domain/obj/Covauto.Domain.csproj.nuget.g.props
+/Covauto.Applicatie/obj/Debug/net8.0/Covauto.Applicatie.AssemblyInfo.cs
+/Covauto.Applicatie/obj/Debug/net8.0/Covauto.Applicatie.AssemblyInfoInputs.cache
+/Covauto.Applicatie/obj/Debug/net8.0/Covauto.Applicatie.assets.cache
+/Covauto.Applicatie/obj/Debug/net8.0/Covauto.Applicatie.GeneratedMSBuildEditorConfig.editorconfig
+/Covauto.Applicatie/obj/project.assets.json
+/Covauto.Applicatie/obj/project.nuget.cache
+/Covauto.Applicatie/obj/Covauto.Applicatie.csproj.nuget.dgspec.json
