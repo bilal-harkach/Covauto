@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Covauto.Applicatie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9494a7b4682e2d549f817dd36fd14f642aea617f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a06f3525e9fe4303adc0269ac4b6d6b4bf01cb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Covauto.Applicatie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Covauto.Applicatie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
