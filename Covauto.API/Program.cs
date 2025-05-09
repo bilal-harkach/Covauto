@@ -1,4 +1,6 @@
 
+using Covauto.API.Repositories;
+using Covauto.Domain;
 namespace Covauto.API
 {
     public class Program
@@ -8,8 +10,9 @@ namespace Covauto.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            ServiceConfiguration.RegisterServices(builder.Services, builder.Configuration.GetConnectionString("DefaultConnection"));
             builder.Services.AddControllers();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
