@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Covauto.Applicatie/obj/Release/net8.0/Covauto.Applicatie.AssemblyInfo.cs
