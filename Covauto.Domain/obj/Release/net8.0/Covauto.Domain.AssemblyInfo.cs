@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Covauto.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9494a7b4682e2d549f817dd36fd14f642aea617f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bd2b7006cc85ba1ad0a232b2e29abcba284a633")]
 [assembly: System.Reflection.AssemblyProductAttribute("Covauto.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Covauto.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
