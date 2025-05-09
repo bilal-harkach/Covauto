@@ -397,6 +397,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-# JetBrains Rider
+# JetBrains Ride
 *.sln.iml
 /Covauto.Applicatie/obj/Release/net8.0/Covauto.Applicatie.AssemblyInfo.cs
