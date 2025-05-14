@@ -14,4 +14,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Covauto.Applicatie\Covauto.Application.csproj" />
+    <ProjectReference Include="..\Covauto.Domain\Covauto.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
