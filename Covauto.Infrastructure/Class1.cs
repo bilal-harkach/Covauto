@@ -1,4 +1,4 @@
-﻿namespace Covauto.Applicatie
+﻿namespace Covauto.Infrastructure
 {
     public class Class1
     {

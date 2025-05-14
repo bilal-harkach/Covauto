@@ -1,4 +1,4 @@
-﻿namespace Covauto.Domain
+﻿namespace Covauto.Client
 {
     public class Class1
     {
